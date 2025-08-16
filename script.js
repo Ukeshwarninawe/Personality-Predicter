@@ -7,13 +7,13 @@ let imgs = document.querySelectorAll(".container img");
 let index = 0;
 let interval = null;
 const captions = {
-  1: "you are leader",
-  2: "you are introvert",
-  3: "hyou are extrovert",
-  4: "you are emotional",
-  5: "you are inteligent",
-  6: "you are romantic",
-  7: "you are spiritual",
+  1: "you are leader 💪",
+  2: "you are introvert 😢",
+  3: "hyou are extrovert 😁",
+  4: "you are emotional 🥹",
+  5: "you are inteligent 🧠",
+  6: "you are romantic 💞",
+  7: "you are spiritual 🛕",
 };
 
 

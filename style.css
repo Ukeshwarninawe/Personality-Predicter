@@ -63,38 +63,21 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-image: url("assets/AdobeStock_166791894.webp");
+    color: white;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
 }
 
-/* @keyframes slide {
-    0% {
-        transform: translateX(0);
-    }
-
-    14% {
-        transform: translateX(0);
-    }
-
-    28% {
-        transform: translateX(-300px);
-    }
-
-    42% {
-        transform: translateX(-600px);
-    }
-
-    56% {
-        transform: translateX(-900px);
-    }
-
-    70% {
-        transform: translateX(-1200px);
-    }
-
-    84% {
-        transform: translateX(-1500px);
-    }
-
-    100% {
-        transform: translateX(-1800px);
-    }
-} */
+#status{
+    
+    font-size: 32px;
+    color: white;
+    height: 40vh;
+    width: 150px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
