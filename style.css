@@ -53,6 +53,11 @@ button{
     gap: 25px;
 }
 
+#status{
+    position: relative;
+    top: 40px;
+}
+
 body{
     display: flex;
     flex-direction: column;
